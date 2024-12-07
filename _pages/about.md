@@ -56,6 +56,6 @@ Papers
 </style>
 
 <div class="papers">
-  <h3><a href="[URL](https://arxiv.org/abs/2403.08604)" target="_blank">DevBench: A Comprehensive Benchmark for Software Development</a></h3>
+  <h3><a href="[](https://arxiv.org/abs/2403.08604)" target="_blank">DevBench: A Comprehensive Benchmark for Software Development</a></h3>
   <p class="conference">Arxiv: 2403.08604</p>
 </div>
