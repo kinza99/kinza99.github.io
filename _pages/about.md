@@ -10,9 +10,12 @@ redirect_from:
 I am a first-year Ph.D. student in Computer Science jointly at Shanghai Artificial Intelligence Laboratory and FDU advised by Prof. [Dacheng Tao](https://dr.ntu.edu.sg/cris/rp/rp02343). I completed my undergraduate studies at Harbin Institute of Technology. My research focuses on LLM reasoning.
 
 
+
+Papers
+===
 <style>
 /* 粘贴优化后的 CSS */
-.publication {
+.papers {
   background-color: #f9f9f9;
   border-left: 4px solid #888;
   padding: 15px;
@@ -21,33 +24,33 @@ I am a first-year Ph.D. student in Computer Science jointly at Shanghai Artifici
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
-.publication h3 {
+.papers h3 {
   font-size: 1.25em;
   margin: 0 0 10px 0;
 }
 
-.publication h3 a {
+.papers h3 a {
   text-decoration: none;
   color: #007acc;
   font-weight: bold;
 }
 
-.publication h3 a:hover {
+.papers h3 a:hover {
   text-decoration: underline;
 }
 
-.publication .authors,
-.publication .conference {
+.papers .authors,
+.papers .conference {
   font-size: 0.95em;
   color: #555;
   margin: 5px 0;
 }
 
-.publication .authors {
+.papers .authors {
   font-style: italic;
 }
 
-.publication .conference {
+.papers .conference {
   color: #888;
 }
 </style>
