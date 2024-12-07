@@ -9,8 +9,6 @@ redirect_from:
 
 I am a first-year Ph.D. student in Computer Science jointly at Shanghai Artificial Intelligence Laboratory and FDU advised by Prof. [Dacheng Tao](https://dr.ntu.edu.sg/cris/rp/rp02343). I completed my undergraduate studies at Harbin Institute of Technology. My research focuses on LLM reasoning.
 
----
-Papers
 
 <style>
 /* 粘贴优化后的 CSS */
@@ -58,4 +56,3 @@ Papers
   <h3><a href="[URL](https://arxiv.org/abs/2403.08604)" target="_blank">DevBench: A Comprehensive Benchmark for Software Development</a></h3>
   <p class="conference">Arxiv: 2403.08604</p>
 </div>
----
