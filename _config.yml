@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "He Du / 杜贺
+title                    : "He Du
 title_separator          : "-"
 name                     : &name "杜贺"
 description              : &description "personal description"
