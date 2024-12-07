@@ -13,7 +13,7 @@ I am a first-year Ph.D. student in Computer Science jointly at Shanghai Artifici
 /* 粘贴优化后的 CSS */
 .publication {
   background-color: #f9f9f9;
-  border-left: 4px solid #007acc;
+  border-left: 4px solid #888;
   padding: 15px;
   margin-bottom: 20px;
   border-radius: 8px;
@@ -50,8 +50,17 @@ I am a first-year Ph.D. student in Computer Science jointly at Shanghai Artifici
   color: #888;
 }
 </style>
-<div class="publication">
-  <h3><a href="URL" target="_blank">Title of Paper 2</a></h3>
-  <p class="authors">Authors: Author 1, Author 3</p>
-  <p class="conference">Conference: Conference Name, Year</p>
+
+
+
+
+
+
+
+
+Papers
+======
+<div class="papers">
+  <h3><a href="URL" target="https://arxiv.org/abs/2403.08604">DevBench: A Comprehensive Benchmark for Software Development</a></h3>
+  <p class="conference">Arxiv: 2403.08604r</p>
 </div>
