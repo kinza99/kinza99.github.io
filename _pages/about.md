@@ -9,42 +9,49 @@ redirect_from:
 
 I am a first-year Ph.D. student in Computer Science jointly at Shanghai Artificial Intelligence Laboratory and FDU advised by Prof. [Dacheng Tao](https://dr.ntu.edu.sg/cris/rp/rp02343). I completed my undergraduate studies at Harbin Institute of Technology. My research focuses on LLM reasoning.
 
-/* 样式优化 */
+<style>
+/* 粘贴优化后的 CSS */
 .publication {
-  background-color: #f9f9f9; /* 背景颜色 */
-  border-left: 4px solid #007acc; /* 左边边框颜色 */
-  padding: 15px; /* 内边距 */
-  margin-bottom: 20px; /* 下边距 */
-  border-radius: 8px; /* 圆角效果 */
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* 阴影效果 */
+  background-color: #f9f9f9;
+  border-left: 4px solid #007acc;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 .publication h3 {
-  font-size: 1.25em; /* 标题字体大小 */
-  margin: 0 0 10px 0; /* 上下边距 */
+  font-size: 1.25em;
+  margin: 0 0 10px 0;
 }
 
 .publication h3 a {
-  text-decoration: none; /* 去除链接下划线 */
-  color: #007acc; /* 链接颜色 */
-  font-weight: bold; /* 链接字体加粗 */
+  text-decoration: none;
+  color: #007acc;
+  font-weight: bold;
 }
 
 .publication h3 a:hover {
-  text-decoration: underline; /* 悬停时出现下划线 */
+  text-decoration: underline;
 }
 
 .publication .authors,
 .publication .conference {
-  font-size: 0.95em; /* 字体大小 */
-  color: #555; /* 字体颜色 */
-  margin: 5px 0; /* 上下边距 */
+  font-size: 0.95em;
+  color: #555;
+  margin: 5px 0;
 }
 
 .publication .authors {
-  font-style: italic; /* 作者部分斜体 */
+  font-style: italic;
 }
 
 .publication .conference {
-  color: #888; /* 更浅的字体颜色 */
+  color: #888;
 }
+</style>
+<div class="publication">
+  <h3><a href="URL" target="_blank">Title of Paper 2</a></h3>
+  <p class="authors">Authors: Author 1, Author 3</p>
+  <p class="conference">Conference: Conference Name, Year</p>
+</div>
